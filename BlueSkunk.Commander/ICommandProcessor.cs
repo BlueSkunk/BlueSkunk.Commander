@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlueSkunk.Commander
 {
-    public class Class1
-    {
-    }
+	public interface ICommandProcessor
+	{
+	}
 }
